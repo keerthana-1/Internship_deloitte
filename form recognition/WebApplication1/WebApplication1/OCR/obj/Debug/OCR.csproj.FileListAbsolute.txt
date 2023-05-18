@@ -1,0 +1,13 @@
+C:\Users\AzureUser\source\repos\WebApplication1\OCR\bin\Debug\OCR.dll
+C:\Users\AzureUser\source\repos\WebApplication1\OCR\bin\Debug\OCR.pdb
+C:\Users\AzureUser\source\repos\WebApplication1\OCR\bin\Debug\BusinessObjects.dll
+C:\Users\AzureUser\source\repos\WebApplication1\OCR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AzureUser\source\repos\WebApplication1\OCR\bin\Debug\RestSharp.dll
+C:\Users\AzureUser\source\repos\WebApplication1\OCR\bin\Debug\BusinessObjects.pdb
+C:\Users\AzureUser\source\repos\WebApplication1\OCR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AzureUser\source\repos\WebApplication1\OCR\bin\Debug\RestSharp.xml
+C:\Users\AzureUser\source\repos\WebApplication1\OCR\obj\Debug\OCR.csprojAssemblyReference.cache
+C:\Users\AzureUser\source\repos\WebApplication1\OCR\obj\Debug\OCR.csproj.CoreCompileInputs.cache
+C:\Users\AzureUser\source\repos\WebApplication1\OCR\obj\Debug\OCR.csproj.CopyComplete
+C:\Users\AzureUser\source\repos\WebApplication1\OCR\obj\Debug\OCR.dll
+C:\Users\AzureUser\source\repos\WebApplication1\OCR\obj\Debug\OCR.pdb

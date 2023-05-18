@@ -1,0 +1,6 @@
+C:\Users\AzureUser\source\repos\WebApplication1\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\AzureUser\source\repos\WebApplication1\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\AzureUser\source\repos\WebApplication1\BusinessObjects\obj\Debug\BusinessObjects.csprojAssemblyReference.cache
+C:\Users\AzureUser\source\repos\WebApplication1\BusinessObjects\obj\Debug\BusinessObjects.csproj.CoreCompileInputs.cache
+C:\Users\AzureUser\source\repos\WebApplication1\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\AzureUser\source\repos\WebApplication1\BusinessObjects\obj\Debug\BusinessObjects.pdb

@@ -1,0 +1,9 @@
+C:\Users\AzureUser\source\repos\WebApplication1\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\AzureUser\source\repos\WebApplication1\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\AzureUser\source\repos\WebApplication1\DataAccess\bin\Debug\BusinessObjects.dll
+C:\Users\AzureUser\source\repos\WebApplication1\DataAccess\bin\Debug\BusinessObjects.pdb
+C:\Users\AzureUser\source\repos\WebApplication1\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\AzureUser\source\repos\WebApplication1\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\AzureUser\source\repos\WebApplication1\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\AzureUser\source\repos\WebApplication1\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\AzureUser\source\repos\WebApplication1\DataAccess\obj\Debug\DataAccess.pdb
