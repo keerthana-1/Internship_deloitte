@@ -1,0 +1,85 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.Master.cs" Inherits="Employees.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="BootStrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="Datatables/css/jquery.dataTables.min.css" rel="stylesheet" />
+    <link href="BootStrap/css/styles.css" rel="stylesheet" />
+    <script src="Datatables/js/jquery.dataTables.min.js"></script>
+    <script src="BootStrap/js/jquery-3.5.1.slim.min.js"></script>
+    <script src="BootStrap/js/popper.min.js"></script>
+    <script src="BootStrap/js/bootstrap.min.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body >
+    <h2 style="color:white;background-color:black;text-align:center;font-weight:bold">EMPLOYEE INFORMATION MANAGEMENT</h2>
+    <form id="form1" runat="server">
+       <div>
+           <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" 
+                   data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                   aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+            </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav" >
+      <li class="nav-item active">
+          <asp:LinkButton Class="nav-link" ID="Home" runat="server" OnClick="HomeClick">Home</asp:LinkButton>
+          </li>
+ 
+        </ul>
+        
+        <ul class="navbar-nav mr-auto">
+       
+       <li class="nav-item active"> 
+        <asp:LinkButton Class="nav-link" ID="EmpEdit" runat="server" OnClick="EmpEditClick" >Edit Details</asp:LinkButton>
+      </li>
+        <li class="nav-item active">
+        <asp:LinkButton Class="nav-link" ID="Password" runat="server" OnClick="PasswordClick" >Change Password</asp:LinkButton>
+      </li>
+       <li class="nav-item active">
+        <asp:LinkButton Class="nav-link" ID="EmpSal" runat="server" OnClick="EmpSalClick" >Salary and Performance Details</asp:LinkButton>
+      </li>
+       <li class="nav-item active">
+        <asp:LinkButton Class="nav-link" ID="EmpProj" runat="server" OnClick="EmpProjClick" >Project Details</asp:LinkButton>
+      </li>
+        <li class="nav-item active">
+        <asp:LinkButton Class="nav-link" ID="EmpAttend" runat="server" OnClick="EmpAttendClick" >Attendance Details</asp:LinkButton>
+      </li>
+        <li class="nav-item active">
+        <asp:LinkButton Class="nav-link" ID="AdmEmp" runat="server" OnClick="AdmEmpClick" >Employee Details</asp:LinkButton>
+      </li>
+        <li class="nav-item active">
+        <asp:LinkButton Class="nav-link" ID="AdmSal" runat="server" OnClick="AdmSalClick" >Salary Details</asp:LinkButton>
+      </li>
+      <li class="nav-item active">
+        <asp:LinkButton Class="nav-link" ID="AdmProj" runat="server" OnClick="AdmProjClick" >Project Details</asp:LinkButton>
+      </li>
+        <li class="nav-item active">
+        <asp:LinkButton Class="nav-link" ID="AdmAttend" runat="server" OnClick="AdmAttendClick" >Attendance Details</asp:LinkButton>
+      </li>
+        <li class="nav-item active">
+        <asp:LinkButton Class="nav-link" ID="CreateUser" runat="server" OnClick="CreateUserClick" >Create User</asp:LinkButton>
+      </li>
+        </ul>
+        <ul class="navbar-nav ">
+        <li class="nav-item active"><asp:LinkButton Class="nav-link" ID="SignOut" runat="server" OnClick="SignOutClick" >SignOut</asp:LinkButton></li>
+        </ul>
+     
+      </div>
+     </nav>
+       </div>
+        
+       
+        <div>
+             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+         </asp:ContentPlaceHolder>
+        </div>
+
+    </form>
+</body>
+</html>
