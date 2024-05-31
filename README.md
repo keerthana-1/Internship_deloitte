@@ -8,10 +8,10 @@ An application to manage employees, their personal information, salary details, 
 It consists to 2 roles: Admin, Users (Employees)
 
 Employee Pages:
-Employees can signup by filling the information and will be assigned user role by default.
-Employees can then signin using the credentials provided while signup
-They can view and edit their personal data which will be updated in database if there are any changes
-They can view the projects assigned to them and also check their salary and performance details.
+- Employees can signup by filling the information and will be assigned user role by default.
+- Employees can then signin using the credentials provided while signup
+- They can view and edit their personal data which will be updated in database if there are any changes
+- They can view the projects assigned to them and also check their salary and performance details.
 
 Admin Pages:
 Admin can add new users. Admin can login into the application and make other users as admin.
